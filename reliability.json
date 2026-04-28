@@ -8,13 +8,13 @@
     "samsung": {
       "label": "Samsung Galaxy",
       "steps": [
-        "Open Settings",
-        "Battery and device care → Battery",
-        "Background usage limits",
-        "Never auto-sleeping apps",
-        "Tap Add apps → select DosePulse"
+        "Open Settings → Battery and device care → Battery",
+        "Background usage limits → Never auto-sleeping apps",
+        "Tap Add apps → select DosePulse",
+        "Then go to Settings → Apps → DosePulse → Battery",
+        "Set to Unrestricted"
       ],
-      "note": "Also confirm DosePulse is not in 'Sleeping apps' or 'Deep sleeping apps'."
+      "note": "Also confirm DosePulse is not in 'Sleeping apps' or 'Deep sleeping apps'. Both steps above complement each other — set both for the most reliable reminders."
     },
     "xiaomi": {
       "label": "Xiaomi / Redmi / POCO",
